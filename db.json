@@ -1,0 +1,12 @@
+{
+  "tarefas":[
+    {"id": 1, "nome": "Estudar Node", "minutos": 45},
+    {"id": 2, "nome": "Estudar Elixir", "minutos": 35},
+    {"id": 3, "nome": "Estudar Flutter", "minutos": 25},
+    {"id": 4, "nome": "Estudar NestJS", "minutos": 15},
+    {"id": 5, "nome": "Estudar Next", "minutos": 55},
+    {"id": 6, "nome": "Estudar DDD", "minutos": 65},
+    {"id": 7, "nome": "Estudar English", "minutos": 75},
+    {"id": 8, "nome": "Estudar JavaScript", "minutos": 85}
+  ]
+}
